@@ -10,9 +10,7 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
-
 export default defineComponent({
-  // ["iconClass", "iconHref"]
   props: {
     iconClass: {
       type: Object,
